@@ -62,7 +62,7 @@ document.getElementById('updateForm').addEventListener('submit', function(event)
         method: 'PATCH',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Basic Y2ZiNzkyMTktNDI0OC00ODc2LWIwNTEtM2VlMzQ1MjFiN2Fi',
+            'Authorization': 'Basic NTc3NjJlMjQtYjAwMC00MzIyLThkMmEtNTNmYjY3ZGVlMjY5',
             'Cookie': '__cf_bm=rI3c9XzVlBdViK2CVaRDiD4YhpvHpK26zVLWNfYkeAw-1722418712-1.0.1.1-lnRORoL4udD1LJRBXPVh0T63Cp4yQwC5tpnqSSZ_N_UfLIB3T8SA5YPeE5G8R6NsRVVP0aOnY5dz2ewCeY50OQ'
         },
         body: JSON.stringify(requestData)
